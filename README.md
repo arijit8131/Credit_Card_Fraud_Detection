@@ -3,6 +3,7 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 
 # Libraries
+●numpy
 ●pandas
 ●matplotlib
 ●seaborn
